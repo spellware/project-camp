@@ -13,6 +13,7 @@
     "storybook": "turbo run storybook",
     "build-storybook": "turbo run build-storybook",
     "db:generate": "turbo run db:generate",
+    "db:seed": "turbo run db:seed",
     "db:migrate": "turbo run db:migrate",
     "db:push": "turbo run db:push",
     "db:studio": "turbo run db:studio",
